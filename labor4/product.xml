@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+    <product><id>1</id><name>Сыр</name><price>20</price><descr>Франция</descr></product>
+    <product><id>2</id><name>Грибы</name><price>10</price><descr>Лесные</descr></product>
+    <product><id>3</id><name>Чипсы</name><price>60</price><descr>Стандарт</descr></product>
+</products>
